@@ -58,7 +58,7 @@ class Encrypter(object):
 
 class Decrypter(object):
     '''
-    Decrypter descypts
+    Decrypter decrypts
     '''
 
     def __init__(self, privkeyFile):
